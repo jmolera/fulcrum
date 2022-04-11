@@ -2,3 +2,4 @@
 2. git status (si no está update, hacéis paso 3)
 3. git clone https://github.com/jmolera/fulcrum
 4. python3 FAT.py
+aaaaaaa

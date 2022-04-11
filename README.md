@@ -1,3 +1,3 @@
 # Generación PDFs de Fulcrum
 
-Ruta: /mnt/c/Users/FGG/Desktop/Fulcrum
+/mnt/c/Users/FGG/Desktop/Fulcrum

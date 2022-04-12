@@ -1,3 +1,3 @@
-# Generación PDFs de Fulcrum
+# PDF generation from Fulcrum data
 
 /mnt/c/Users/FGG/

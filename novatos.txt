@@ -1,5 +1,0 @@
-1. Ruta en terminal a vuestra carpeta Fulcrum
-2. git clone https://github.com/jmolera/fulcrum (sólo la 1a vez)
-3. git status (si no está update, hacéis paso 4)
-4. git pull
-5. python3 FAT.py
